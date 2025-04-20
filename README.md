@@ -66,3 +66,10 @@ Responsive Design: The layout adapts to various screen sizes using media queries
 Utility Classes: Includes reusable classes for spacing, alignment, and display.
 Interactive Elements: Buttons, links, and hover effects enhance user interaction.
 Modern Design: Uses gradients, rounded corners, and shadows for a clean and professional look.
+
+![Tripma1](https://github.com/user-attachments/assets/596d3d1d-27b7-4671-8cc4-b58fc9da4234)
+![Tripma2](https://github.com/user-attachments/assets/c0f6148b-3411-47e4-9568-cc6aafcd2fce)
+![Tripma4](https://github.com/user-attachments/assets/40523a0d-994f-400c-b771-2ea54bd4fb86)
+
+
+
